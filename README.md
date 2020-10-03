@@ -64,7 +64,7 @@ In order to use this package you will need to create an app from within your str
 To install the package within your laravel project use the following composer command:
 
 ```shell
-composer require codetoad/strava
+composer require lachlanhickey/strava
 ```
 
 
